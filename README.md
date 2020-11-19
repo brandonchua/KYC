@@ -1,2 +1,2 @@
 # KYC
-KYC Smart Contract
+KYC Smart Contract for Singapore's Monetary Authority of Singapore.
